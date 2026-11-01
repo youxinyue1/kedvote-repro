@@ -1,0 +1,5 @@
+# KED-Vote 复现代码依赖（CPU 即可；推理侧另需 Ollama 或 llama.cpp）
+scipy>=1.10
+
+# 可选：若自行改用 pandas 读取结果表
+# pandas>=2.0
